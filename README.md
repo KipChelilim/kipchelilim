@@ -4,6 +4,7 @@ I'm a full-stack engineer who gets energized by working through complex problems
 
 Before working with software, I was a CPA, Finance Transformation Consultant, and Program Manager responsible for designing transformation strategy, managing global remote teams, and delivering executive level reporting.
 
+When not writing code, I spend my time reading and coming up with ideas for a future novel.
 
 ## 🛠️ Technologies and tools I have experience with:
 ### Backend
