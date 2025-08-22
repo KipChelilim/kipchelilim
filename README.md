@@ -1,10 +1,17 @@
 ## 👋 I'm Kipchumba Chelilim (Kip for short)
 
-I'm a full-stack engineer who gets energized by working through complex problems. I have experience in Ruby, JavaScript, TypeScript, Python, and working with observability tooling. Recently, I built [Vispyr](https://vispyr.com), an easy-to-deploy observability tool that automates the setup, configuration, and deployment of a self-hosted observability platform on AWS.
+I'm a full-stack engineer who gets energized by working through complex problems. I have experience in Ruby, JavaScript, TypeScript, Python, and working with observability tooling. When not writing code, I spend my time reading, playing disc golf, and coming up with ideas for a future novel.
 
 Before working with software, I was a CPA, Finance Transformation Consultant, and Program Manager responsible for designing transformation strategy, managing global remote teams, and delivering executive level reporting.
 
-When not writing code, I spend my time reading and coming up with ideas for a future novel.
+## What I'm working on
+Recently, I built [Vispyr](https://vispyr.com), an easy-to-deploy observability tool that automates the setup, configuration, and deployment of a self-hosted observability platform on AWS.
+<div>
+  <img src="./vispyr-logo-cropped.png" style="width: 10%" alt="Vispyr Logo" />
+  <a href="https://www.vispyr.com" target="_blank">
+    <img src="https://img.shields.io/badge/Click to learn more-FA4200?&logo=your-logo&logoColor=white" alt="Personal Website">
+  </a>
+</div>
 
 ## 🛠️ Technologies and tools I have experience with:
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
