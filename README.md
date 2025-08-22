@@ -7,7 +7,7 @@ Before working with software, I was a CPA, Finance Transformation Consultant, an
 ## What I'm working on
 Recently, I built [Vispyr](https://vispyr.com), an easy-to-deploy observability tool that automates the setup, configuration, and deployment of a self-hosted observability platform on AWS.
 <div>
-  <img src="./vispyr-logo-cropped.png" style="width: 10%" alt="Vispyr Logo" />
+  <img src="./vispyr-logo.png" style="width: 10%" alt="Vispyr Logo" />
   <a href="https://www.vispyr.com" target="_blank">
     <img src="https://img.shields.io/badge/Click to learn more-FA4200?&logo=your-logo&logoColor=white" alt="Personal Website">
   </a>
