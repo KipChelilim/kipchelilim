@@ -8,10 +8,8 @@ Before working with software, I was a CPA, Finance Transformation Consultant, an
 Recently, I built [Vispyr](https://vispyr.com), an easy-to-deploy observability tool that automates the setup, configuration, and deployment of a self-hosted observability platform on AWS. Vispyr brings continuous profiling to small development teams by combining profiles with traditional telemetry data to provide code-level insights into an application’s performance.
 
 <div>
-  <a href="https://www.vispyr.com" target="_blank">
+  <a href="https://www.vispyr.com" target="_blank" style="text-decoration: none">
     <img src="./vispyr-logo.png" style="width: 10%" alt="Vispyr Logo" />
-  </a>
-  <a href="https://www.vispyr.com" target="_blank">
     <img src="https://img.shields.io/badge/Click to learn more-FA4200?&logo=your-logo&logoColor=white" alt="Vispyr Website">
   </a>
 </div>
