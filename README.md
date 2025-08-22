@@ -9,7 +9,7 @@ Recently, I built [Vispyr](https://vispyr.com), an easy-to-deploy observability 
 
 <div>
   <a href="https://www.vispyr.com" target="_blank">
-    <img src="./vispyr-logo.png" style="width: 10%" alt="Vispyr Logo" /
+    <img src="./vispyr-logo.png" style="width: 10%" alt="Vispyr Logo" />
   </a>
   <a href="https://www.vispyr.com" target="_blank">
     <img src="https://img.shields.io/badge/Click to learn more-FA4200?&logo=your-logo&logoColor=white" alt="Vispyr Website">
