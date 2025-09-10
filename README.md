@@ -5,7 +5,7 @@ I'm a full-stack engineer who gets energized by working through complex problems
 Before working with software, I was a CPA, Finance Transformation Consultant, and Program Manager responsible for designing transformation strategy, creating process automation/improvement solutions, managing transformation programs across business and engineering teams, and leading global remote teams.
 
 ## What I'm working on
-Recently, I built [Vispyr](https://vispyr.com), an easy-to-deploy observability tool that automates the setup, configuration, and deployment of a self-hosted observability platform on AWS. Vispyr brings continuous profiling to small development teams by combining profiles with traditional telemetry data to provide code-level insights into an application’s performance.
+Recently I built [Vispyr](https://vispyr.com), an easy-to-deploy observability tool that automates the setup, configuration, and deployment of a self-hosted observability platform on AWS. Vispyr brings continuous profiling to small development teams by combining profiles with traditional telemetry data to provide code-level insights into an application’s performance.
 
 <div>
   <a href="https://www.vispyr.com" target="_blank" style="text-decoration: none">
